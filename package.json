@@ -1,0 +1,10 @@
+{
+  "name": "math-ai-assistant",
+  "version": "1.0.0",
+  "description": "数学核心素养AI助手",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
